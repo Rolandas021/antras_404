@@ -1,0 +1,15 @@
+{
+  "name": "antras_404",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "grybas": "dead-server --host=localhost --port=9002",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rolandas <rolandas.tverijonas021@gmail.com> (https://github.com/Rolandas021)",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
